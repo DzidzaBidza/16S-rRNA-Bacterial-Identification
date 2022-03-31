@@ -10,6 +10,8 @@ Deviations from reference data occur due to the quality and length of the input 
 
 ### mothur pipeline
 
+mothur pipeline for 16S rRNA gene sequence analysis is based on the universal way of bioinformatics data processing. It contains functions for quality control and sequence filtering, functions for clustering and taxonomy assignment. These functions represent the implementation of existing algorithms that have found their application in bioinformatics analysis.
+
 ```
 mothur > unique.seqs(fasta=HITTestV1.fasta)
 
