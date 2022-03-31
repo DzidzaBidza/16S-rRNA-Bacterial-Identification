@@ -1,12 +1,45 @@
 # 16S-rRna-Analysis-Visualisation
 
-### Summary
+## Summary
 The identification of bacteria based on the sequences of hypervariable regions was performed within the gene encoding 16S ribosomal RNA (rRNA) synthesis. 
 A total of 2533 sequences of bacteria was used. 1216 sequences originate from cultivated species that inhabit the human intestinal tract, while the remaining 1317 sequences are derived from intestinal tract bacteria detected in studies based on the 16S rRNA sequence. The taxonomic position was determined using an adapted 16S rRNA SILVA database. 
 
 The 16S rRNA sequence contains nine hypervariable regions (V1-V9).  A bioinformatics analysis was done based on the V1 to V8 hypervariable regions because the data set had incomplete sequences.
 The analysis was performed using mothur bioinformatic data processing tool, while data visualization was performed with Python programming language. 
 Deviations from reference data occur due to the quality and length of the input sequences, the degree of variability of the region, as well as the choice of reference bases.
+
+### mothur pipeline
+
+```
+mothur > unique.seqs(fasta=HITTestV1.fasta)
+
+mothur > count.seqs(name=HITTestV1.names)
+
+mothur > align.seqs(fasta=HITTestV1.unique.fasta, reference=silva.nr_v138_1.align)
+
+mothur > summary.seqs(fasta=HITTestV1.unique.align, count=HITTestV1.count_table)
+
+mothur > screen.seqs(fasta=HITTestV1.unique.align, count=HITTestV1.count_table, summary=HITTestV1.unique.summary, start=1143, end=1793, maxhomop=8)
+
+mothur > filter.seqs(fasta=HITTestV1.unique.good.align, vertical=T, trump=.)
+
+mothur > pre.cluster(fasta=HITTestV1.unique.good.filter.fasta, count=HITTestV1.good.count_table, diffs=2)
+
+mothur > chimera.vsearch(fasta=HITTestV1.unique.good.filter.precluster.fasta, count=HITTestV1.good.precluster.count_table, dereplicate=t) 
+
+mothur > classify.seqs(fasta=HITTestV1.unique.good.filter.precluster.fasta, count=HITTestV1.unique.good.filter.precluster.count_table, reference=silva.nr_v138_1.align, taxonomy=silva.nr_v138_1.tax, cutoff=80)
+
+mothur > remove.lineage(fasta=HITTestV1.unique.good.filter.precluster.fasta, count=HITTestV1.unique.good.filter.precluster.count_table, taxonomy=HITTestV1.unique.good.filter.precluster.nr_v138_1.wang.taxonomy, taxon=Chloroplast-Mitochondria-unknown-Archaea-Eukaryota)
+
+mothur > summary.tax(taxonomy=current, count=current)
+
+mothur > summary.seqs(fasta=HITTestV1.unique.good.filter.precluster.pick.fasta, count=HITTestV1.unique.good.filter.precluster.pick.count_table)
+
+mothur > phylotype(taxonomy=HITTestV1.unique.good.filter.precluster.nr_v138_1.wang.pick.taxonomy) 
+
+mothur > classify.otu(list=HITTestV1.unique.good.filter.precluster.nr_v138_1.wang.pick.tx.list, count=HITTestV1.unique.good.filter.precluster.pick.mothurGroup.count_table, taxonomy=HITTestV1.unique.good.filter.precluster.nr_v138_1.wang.pick.taxonomy, cutoff=80) 
+```
+
 
 Graphical representation of recovered sequences by taxonomic levels can be seen below. `visualisation.py` was used for generating graphical report. 
 ![RecoveredSequence](https://user-images.githubusercontent.com/91345686/161155200-8da64874-c6b1-4d79-8a66-3b872bf87b91.png)
