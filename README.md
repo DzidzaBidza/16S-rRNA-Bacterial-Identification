@@ -8,7 +8,9 @@ The 16S rRNA sequence contains nine hypervariable regions (V1-V9).  A bioinforma
 The analysis was performed using mothur bioinformatic data processing tool, while data visualization was performed with Python programming language. 
 Deviations from reference data occur due to the quality and length of the input sequences, the degree of variability of the region, as well as the choice of reference bases.
 
-Graphical representation of recovered sequences by taxonomic levels can be seen below. `visualisation.py` was used for generating graphic. 
+Graphical representation of recovered sequences by taxonomic levels can be seen below. `visualisation.py` was used for generating graphical report. 
 ![RecoveredSequence](https://user-images.githubusercontent.com/91345686/161155200-8da64874-c6b1-4d79-8a66-3b872bf87b91.png)
 
+Graphical representation of the share of classified taxa at the phylum level. `phylum_pie_chart.py` was used for generating graphical report.
+![Pie Example(V1234)](https://user-images.githubusercontent.com/91345686/161162580-d522f0ea-1fbe-480f-b6d1-daa14c960621.png)
 
