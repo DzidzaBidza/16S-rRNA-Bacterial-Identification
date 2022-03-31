@@ -1,0 +1,1060 @@
+{
+    "phylum": {
+        "unclassif": 572,
+        "classif": 909,
+        "data": {
+            "Proteobacteria(100)": {
+                "OTU": "Otu002",
+                "seqs_num": 31
+            },
+            "Bacteroidota(100)": {
+                "OTU": "Otu003",
+                "seqs_num": 29
+            },
+            "Firmicutes(100)": {
+                "OTU": "Otu004",
+                "seqs_num": 33
+            },
+            "Actinobacteriota(100)": {
+                "OTU": "Otu005",
+                "seqs_num": 30
+            },
+            "Patescibacteria(100)": {
+                "OTU": "Otu040",
+                "seqs_num": 2
+            },
+            "Planctomycetota(100)": {
+                "OTU": "Otu081",
+                "seqs_num": 1
+            },
+            "Synergistota(100)": {
+                "OTU": "Otu094",
+                "seqs_num": 1
+            },
+            "Campylobacterota(100)": {
+                "OTU": "Otu127",
+                "seqs_num": 1
+            },
+            "Verrucomicrobiota(100)": {
+                "OTU": "Otu135",
+                "seqs_num": 7
+            }
+        }
+    },
+    "class": {
+        "unclassif": 601,
+        "classif": 880,
+        "data": {
+            "Gammaproteobacteria(100)": {
+                "OTU": "Otu002",
+                "seqs_num": 31
+            },
+            "Bacteroidia(100)": {
+                "OTU": "Otu003",
+                "seqs_num": 29
+            },
+            "Clostridia(100)": {
+                "OTU": "Otu004",
+                "seqs_num": 33
+            },
+            "Actinobacteria(100)": {
+                "OTU": "Otu005",
+                "seqs_num": 30
+            },
+            "Bacilli(100)": {
+                "OTU": "Otu011",
+                "seqs_num": 36
+            },
+            "Coriobacteriia(100)": {
+                "OTU": "Otu034",
+                "seqs_num": 2
+            },
+            "Negativicutes(100)": {
+                "OTU": "Otu038",
+                "seqs_num": 6
+            },
+            "Saccharimonadia(100)": {
+                "OTU": "Otu040",
+                "seqs_num": 2
+            },
+            "Planctomycetes(100)": {
+                "OTU": "Otu081",
+                "seqs_num": 1
+            },
+            "Synergistia(100)": {
+                "OTU": "Otu094",
+                "seqs_num": 1
+            },
+            "Alphaproteobacteria(100)": {
+                "OTU": "Otu113",
+                "seqs_num": 6
+            },
+            "Campylobacteria(100)": {
+                "OTU": "Otu127",
+                "seqs_num": 1
+            },
+            "Verrucomicrobiae(100)": {
+                "OTU": "Otu135",
+                "seqs_num": 7
+            }
+        }
+    },
+    "order": {
+        "unclassif": 745,
+        "classif": 736,
+        "data": {
+            "Lachnospirales(100)": {
+                "OTU": "Otu004",
+                "seqs_num": 33
+            },
+            "Enterobacterales(100)": {
+                "OTU": "Otu008",
+                "seqs_num": 24
+            },
+            "Oscillospirales(100)": {
+                "OTU": "Otu009",
+                "seqs_num": 18
+            },
+            "Burkholderiales(100)": {
+                "OTU": "Otu010",
+                "seqs_num": 21
+            },
+            "Micrococcales(100)": {
+                "OTU": "Otu012",
+                "seqs_num": 13
+            },
+            "Lactobacillales(100)": {
+                "OTU": "Otu013",
+                "seqs_num": 7
+            },
+            "Clostridia_UCG-014(100)": {
+                "OTU": "Otu014",
+                "seqs_num": 7
+            },
+            "Bacteroidales(100)": {
+                "OTU": "Otu015",
+                "seqs_num": 45
+            },
+            "Peptostreptococcales-Tissierellales(100)": {
+                "OTU": "Otu017",
+                "seqs_num": 4
+            },
+            "RF39(100)": {
+                "OTU": "Otu026",
+                "seqs_num": 3
+            },
+            "Coriobacteriales(100)": {
+                "OTU": "Otu034",
+                "seqs_num": 2
+            },
+            "Eubacteriales(100)": {
+                "OTU": "Otu036",
+                "seqs_num": 2
+            },
+            "Veillonellales-Selenomonadales(100)": {
+                "OTU": "Otu038",
+                "seqs_num": 6
+            },
+            "Saccharimonadales(100)": {
+                "OTU": "Otu040",
+                "seqs_num": 2
+            },
+            "Staphylococcales(100)": {
+                "OTU": "Otu044",
+                "seqs_num": 2
+            },
+            "Bacillales(100)": {
+                "OTU": "Otu045",
+                "seqs_num": 2
+            },
+            "Erysipelotrichales(100)": {
+                "OTU": "Otu046",
+                "seqs_num": 2
+            },
+            "Acidaminococcales(100)": {
+                "OTU": "Otu048",
+                "seqs_num": 2
+            },
+            "Propionibacteriales(100)": {
+                "OTU": "Otu063",
+                "seqs_num": 1
+            },
+            "Actinomycetales(100)": {
+                "OTU": "Otu078",
+                "seqs_num": 1
+            },
+            "Pirellulales(100)": {
+                "OTU": "Otu081",
+                "seqs_num": 1
+            },
+            "Corynebacteriales(100)": {
+                "OTU": "Otu085",
+                "seqs_num": 1
+            },
+            "Synergistales(100)": {
+                "OTU": "Otu094",
+                "seqs_num": 1
+            },
+            "Xanthomonadales(100)": {
+                "OTU": "Otu099",
+                "seqs_num": 1
+            },
+            "Sphingobacteriales(100)": {
+                "OTU": "Otu101",
+                "seqs_num": 1
+            },
+            "Bifidobacteriales(100)": {
+                "OTU": "Otu102",
+                "seqs_num": 1
+            },
+            "Chitinophagales(100)": {
+                "OTU": "Otu109",
+                "seqs_num": 1
+            },
+            "Christensenellales(100)": {
+                "OTU": "Otu114",
+                "seqs_num": 1
+            },
+            "Peptococcales(100)": {
+                "OTU": "Otu115",
+                "seqs_num": 1
+            },
+            "Clostridiales(100)": {
+                "OTU": "Otu121",
+                "seqs_num": 5
+            },
+            "Campylobacterales(100)": {
+                "OTU": "Otu127",
+                "seqs_num": 1
+            },
+            "Rhizobiales(100)": {
+                "OTU": "Otu133",
+                "seqs_num": 4
+            },
+            "Verrucomicrobiales(100)": {
+                "OTU": "Otu135",
+                "seqs_num": 7
+            },
+            "Flavobacteriales(100)": {
+                "OTU": "Otu141",
+                "seqs_num": 1
+            }
+        }
+    },
+    "family": {
+        "unclassif": 855,
+        "classif": 626,
+        "data": {
+            "Lachnospiraceae(100)": {
+                "OTU": "Otu004",
+                "seqs_num": 33
+            },
+            "Oscillospiraceae(100)": {
+                "OTU": "Otu009",
+                "seqs_num": 18
+            },
+            "Lactobacillaceae(100)": {
+                "OTU": "Otu013",
+                "seqs_num": 7
+            },
+            "Clostridia_UCG-014_fa(100)": {
+                "OTU": "Otu014",
+                "seqs_num": 7
+            },
+            "Family_XI(100)": {
+                "OTU": "Otu017",
+                "seqs_num": 4
+            },
+            "Butyricicoccaceae(100)": {
+                "OTU": "Otu024",
+                "seqs_num": 7
+            },
+            "RF39_fa(100)": {
+                "OTU": "Otu026",
+                "seqs_num": 3
+            },
+            "Prevotellaceae(100)": {
+                "OTU": "Otu027",
+                "seqs_num": 3
+            },
+            "Eggerthellaceae(100)": {
+                "OTU": "Otu034",
+                "seqs_num": 2
+            },
+            "Eubacteriaceae(100)": {
+                "OTU": "Otu036",
+                "seqs_num": 2
+            },
+            "Microbacteriaceae(100)": {
+                "OTU": "Otu037",
+                "seqs_num": 2
+            },
+            "Veillonellaceae(100)": {
+                "OTU": "Otu038",
+                "seqs_num": 6
+            },
+            "Selenomonadaceae(100)": {
+                "OTU": "Otu039",
+                "seqs_num": 4
+            },
+            "Saccharimonadaceae(100)": {
+                "OTU": "Otu040",
+                "seqs_num": 2
+            },
+            "Gemellaceae(100)": {
+                "OTU": "Otu044",
+                "seqs_num": 2
+            },
+            "Bacillaceae(100)": {
+                "OTU": "Otu045",
+                "seqs_num": 2
+            },
+            "Erysipelotrichaceae(100)": {
+                "OTU": "Otu046",
+                "seqs_num": 2
+            },
+            "Acidaminococcaceae(100)": {
+                "OTU": "Otu048",
+                "seqs_num": 2
+            },
+            "Ruminococcaceae(100)": {
+                "OTU": "Otu053",
+                "seqs_num": 3
+            },
+            "Atopobiaceae(100)": {
+                "OTU": "Otu054",
+                "seqs_num": 2
+            },
+            "Enterobacteriaceae(100)": {
+                "OTU": "Otu062",
+                "seqs_num": 1
+            },
+            "Propionibacteriaceae(100)": {
+                "OTU": "Otu063",
+                "seqs_num": 1
+            },
+            "Peptostreptococcaceae(100)": {
+                "OTU": "Otu064",
+                "seqs_num": 1
+            },
+            "Morganellaceae(100)": {
+                "OTU": "Otu065",
+                "seqs_num": 3
+            },
+            "Alcaligenaceae(100)": {
+                "OTU": "Otu070",
+                "seqs_num": 1
+            },
+            "Marinifilaceae(100)": {
+                "OTU": "Otu073",
+                "seqs_num": 1
+            },
+            "Shewanellaceae(100)": {
+                "OTU": "Otu076",
+                "seqs_num": 2
+            },
+            "Vibrionaceae(100)": {
+                "OTU": "Otu077",
+                "seqs_num": 1
+            },
+            "Actinomycetaceae(100)": {
+                "OTU": "Otu078",
+                "seqs_num": 1
+            },
+            "Neisseriaceae(100)": {
+                "OTU": "Otu079",
+                "seqs_num": 3
+            },
+            "Pirellulaceae(100)": {
+                "OTU": "Otu081",
+                "seqs_num": 1
+            },
+            "Nitrosomonadaceae(100)": {
+                "OTU": "Otu082",
+                "seqs_num": 1
+            },
+            "Yersiniaceae(100)": {
+                "OTU": "Otu084",
+                "seqs_num": 7
+            },
+            "Muribaculaceae(100)": {
+                "OTU": "Otu092",
+                "seqs_num": 1
+            },
+            "Synergistaceae(100)": {
+                "OTU": "Otu094",
+                "seqs_num": 1
+            },
+            "Listeriaceae(100)": {
+                "OTU": "Otu095",
+                "seqs_num": 1
+            },
+            "Micrococcales_Incertae_Sedis(100)": {
+                "OTU": "Otu096",
+                "seqs_num": 1
+            },
+            "Succinivibrionaceae(100)": {
+                "OTU": "Otu098",
+                "seqs_num": 1
+            },
+            "Xanthomonadaceae(100)": {
+                "OTU": "Otu099",
+                "seqs_num": 1
+            },
+            "Sphingobacteriaceae(100)": {
+                "OTU": "Otu101",
+                "seqs_num": 1
+            },
+            "Bifidobacteriaceae(100)": {
+                "OTU": "Otu102",
+                "seqs_num": 1
+            },
+            "Coriobacteriales_Incertae_Sedis(100)": {
+                "OTU": "Otu104",
+                "seqs_num": 1
+            },
+            "Promicromonosporaceae(100)": {
+                "OTU": "Otu106",
+                "seqs_num": 4
+            },
+            "Chitinophagaceae(100)": {
+                "OTU": "Otu109",
+                "seqs_num": 1
+            },
+            "Ethanoligenenaceae(100)": {
+                "OTU": "Otu112",
+                "seqs_num": 1
+            },
+            "Christensenellaceae(100)": {
+                "OTU": "Otu114",
+                "seqs_num": 1
+            },
+            "Peptococcaceae(100)": {
+                "OTU": "Otu115",
+                "seqs_num": 1
+            },
+            "Coriobacteriaceae(100)": {
+                "OTU": "Otu117",
+                "seqs_num": 3
+            },
+            "Hungateiclostridiaceae(100)": {
+                "OTU": "Otu118",
+                "seqs_num": 1
+            },
+            "Clostridiaceae(100)": {
+                "OTU": "Otu121",
+                "seqs_num": 5
+            },
+            "Aerococcaceae(100)": {
+                "OTU": "Otu123",
+                "seqs_num": 1
+            },
+            "Arcobacteraceae(100)": {
+                "OTU": "Otu127",
+                "seqs_num": 1
+            },
+            "Carnobacteriaceae(100)": {
+                "OTU": "Otu129",
+                "seqs_num": 3
+            },
+            "Aeromonadaceae(100)": {
+                "OTU": "Otu131",
+                "seqs_num": 10
+            },
+            "Erysipelatoclostridiaceae(100)": {
+                "OTU": "Otu132",
+                "seqs_num": 1
+            },
+            "Xanthobacteraceae(100)": {
+                "OTU": "Otu133",
+                "seqs_num": 4
+            },
+            "Akkermansiaceae(100)": {
+                "OTU": "Otu135",
+                "seqs_num": 7
+            },
+            "Rikenellaceae(100)": {
+                "OTU": "Otu138",
+                "seqs_num": 1
+            },
+            "Micrococcaceae(100)": {
+                "OTU": "Otu139",
+                "seqs_num": 1
+            },
+            "Weeksellaceae(100)": {
+                "OTU": "Otu141",
+                "seqs_num": 1
+            },
+            "Hafniaceae(100)": {
+                "OTU": "Otu143",
+                "seqs_num": 4
+            },
+            "Helicobacteraceae(100)": {
+                "OTU": "Otu145",
+                "seqs_num": 6
+            },
+            "Planococcaceae(100)": {
+                "OTU": "Otu147",
+                "seqs_num": 3
+            },
+            "Dermacoccaceae(100)": {
+                "OTU": "Otu148",
+                "seqs_num": 1
+            },
+            "Streptococcaceae(100)": {
+                "OTU": "Otu153",
+                "seqs_num": 1
+            },
+            "Barnesiellaceae(100)": {
+                "OTU": "Otu158",
+                "seqs_num": 1
+            },
+            "Enterococcaceae(100)": {
+                "OTU": "Otu163",
+                "seqs_num": 1
+            },
+            "Nocardiaceae(100)": {
+                "OTU": "Otu173",
+                "seqs_num": 4
+            }
+        }
+    },
+    "genus": {
+        "unclassif": 960,
+        "classif": 521,
+        "data": {
+            "Lactobacillus(100)": {
+                "OTU": "Otu013",
+                "seqs_num": 7
+            },
+            "Clostridia_UCG-014_ge(100)": {
+                "OTU": "Otu014",
+                "seqs_num": 7
+            },
+            "Limosilactobacillus(100)": {
+                "OTU": "Otu016",
+                "seqs_num": 5
+            },
+            "Anaerococcus(100)": {
+                "OTU": "Otu017",
+                "seqs_num": 4
+            },
+            "Lachnospiraceae_UCG-004(100)": {
+                "OTU": "Otu018",
+                "seqs_num": 4
+            },
+            "Lachnospira(100)": {
+                "OTU": "Otu019",
+                "seqs_num": 4
+            },
+            "Eisenbergiella(100)": {
+                "OTU": "Otu020",
+                "seqs_num": 4
+            },
+            "Anaerostipes(100)": {
+                "OTU": "Otu021",
+                "seqs_num": 12
+            },
+            "UCG-002(100)": {
+                "OTU": "Otu023",
+                "seqs_num": 12
+            },
+            "Butyricicoccus(100)": {
+                "OTU": "Otu024",
+                "seqs_num": 7
+            },
+            "Sellimonas(100)": {
+                "OTU": "Otu025",
+                "seqs_num": 3
+            },
+            "RF39_ge(100)": {
+                "OTU": "Otu026",
+                "seqs_num": 3
+            },
+            "Prevotella_7(100)": {
+                "OTU": "Otu027",
+                "seqs_num": 3
+            },
+            "Prevotella_9(100)": {
+                "OTU": "Otu028",
+                "seqs_num": 21
+            },
+            "Lentilactobacillus(100)": {
+                "OTU": "Otu029",
+                "seqs_num": 3
+            },
+            "Blautia(100)": {
+                "OTU": "Otu030",
+                "seqs_num": 117
+            },
+            "Fusicatenibacter(100)": {
+                "OTU": "Otu031",
+                "seqs_num": 18
+            },
+            "Pediococcus(100)": {
+                "OTU": "Otu032",
+                "seqs_num": 3
+            },
+            "Hungatella(100)": {
+                "OTU": "Otu033",
+                "seqs_num": 2
+            },
+            "Paraprevotella(100)": {
+                "OTU": "Otu035",
+                "seqs_num": 2
+            },
+            "Eubacterium(100)": {
+                "OTU": "Otu036",
+                "seqs_num": 2
+            },
+            "Dialister(100)": {
+                "OTU": "Otu038",
+                "seqs_num": 6
+            },
+            "Mitsuokella(100)": {
+                "OTU": "Otu039",
+                "seqs_num": 4
+            },
+            "TM7x(100)": {
+                "OTU": "Otu040",
+                "seqs_num": 2
+            },
+            "UCG-003(100)": {
+                "OTU": "Otu041",
+                "seqs_num": 2
+            },
+            "Agathobacter(100)": {
+                "OTU": "Otu042",
+                "seqs_num": 30
+            },
+            "Lachnoanaerobaculum(100)": {
+                "OTU": "Otu043",
+                "seqs_num": 2
+            },
+            "Gemella(100)": {
+                "OTU": "Otu044",
+                "seqs_num": 2
+            },
+            "Merdibacter(100)": {
+                "OTU": "Otu046",
+                "seqs_num": 2
+            },
+            "Latilactobacillus(100)": {
+                "OTU": "Otu047",
+                "seqs_num": 2
+            },
+            "Phascolarctobacterium(100)": {
+                "OTU": "Otu048",
+                "seqs_num": 2
+            },
+            "Megasphaera(100)": {
+                "OTU": "Otu049",
+                "seqs_num": 6
+            },
+            "Ezakiella(100)": {
+                "OTU": "Otu050",
+                "seqs_num": 3
+            },
+            "Weissella(100)": {
+                "OTU": "Otu051",
+                "seqs_num": 3
+            },
+            "GCA-900066755(100)": {
+                "OTU": "Otu052",
+                "seqs_num": 2
+            },
+            "Negativibacillus(100)": {
+                "OTU": "Otu053",
+                "seqs_num": 3
+            },
+            "Atopobium(100)": {
+                "OTU": "Otu054",
+                "seqs_num": 2
+            },
+            "Lachnospiraceae_UCG-003(100)": {
+                "OTU": "Otu055",
+                "seqs_num": 2
+            },
+            "Fournierella(100)": {
+                "OTU": "Otu058",
+                "seqs_num": 1
+            },
+            "Eggerthella(100)": {
+                "OTU": "Otu059",
+                "seqs_num": 3
+            },
+            "Lachnospiraceae_NK4B4_group(100)": {
+                "OTU": "Otu060",
+                "seqs_num": 1
+            },
+            "Plesiomonas(100)": {
+                "OTU": "Otu062",
+                "seqs_num": 1
+            },
+            "Cutibacterium(100)": {
+                "OTU": "Otu063",
+                "seqs_num": 1
+            },
+            "Proteocatella(100)": {
+                "OTU": "Otu064",
+                "seqs_num": 1
+            },
+            "Proteus(100)": {
+                "OTU": "Otu065",
+                "seqs_num": 3
+            },
+            "Providencia(100)": {
+                "OTU": "Otu066",
+                "seqs_num": 5
+            },
+            "Parvimonas(100)": {
+                "OTU": "Otu067",
+                "seqs_num": 1
+            },
+            "Robinsoniella(100)": {
+                "OTU": "Otu068",
+                "seqs_num": 1
+            },
+            "UCG-007(100)": {
+                "OTU": "Otu069",
+                "seqs_num": 1
+            },
+            "Pelistega(100)": {
+                "OTU": "Otu070",
+                "seqs_num": 1
+            },
+            "Intestinimonas(100)": {
+                "OTU": "Otu071",
+                "seqs_num": 1
+            },
+            "CAG-56(100)": {
+                "OTU": "Otu072",
+                "seqs_num": 1
+            },
+            "Odoribacter(100)": {
+                "OTU": "Otu073",
+                "seqs_num": 1
+            },
+            "Selenomonadaceae_ge(100)": {
+                "OTU": "Otu074",
+                "seqs_num": 1
+            },
+            "Veillonella(100)": {
+                "OTU": "Otu075",
+                "seqs_num": 4
+            },
+            "Ferrimonas(100)": {
+                "OTU": "Otu076",
+                "seqs_num": 2
+            },
+            "Catenococcus(100)": {
+                "OTU": "Otu077",
+                "seqs_num": 1
+            },
+            "Varibaculum(100)": {
+                "OTU": "Otu078",
+                "seqs_num": 1
+            },
+            "Eikenella(100)": {
+                "OTU": "Otu079",
+                "seqs_num": 3
+            },
+            "Neisseria(100)": {
+                "OTU": "Otu080",
+                "seqs_num": 5
+            },
+            "Ellin6067(100)": {
+                "OTU": "Otu082",
+                "seqs_num": 1
+            },
+            "Fenollaria(100)": {
+                "OTU": "Otu083",
+                "seqs_num": 1
+            },
+            "Yersinia(100)": {
+                "OTU": "Otu084",
+                "seqs_num": 7
+            },
+            "Dorea(100)": {
+                "OTU": "Otu086",
+                "seqs_num": 10
+            },
+            "Harryflintia(100)": {
+                "OTU": "Otu087",
+                "seqs_num": 1
+            },
+            "Phocea(100)": {
+                "OTU": "Otu088",
+                "seqs_num": 1
+            },
+            "Muribaculum(100)": {
+                "OTU": "Otu092",
+                "seqs_num": 1
+            },
+            "Pyramidobacter(100)": {
+                "OTU": "Otu094",
+                "seqs_num": 1
+            },
+            "Brochothrix(100)": {
+                "OTU": "Otu095",
+                "seqs_num": 1
+            },
+            "Timonella(100)": {
+                "OTU": "Otu096",
+                "seqs_num": 1
+            },
+            "Catenisphaera(100)": {
+                "OTU": "Otu097",
+                "seqs_num": 1
+            },
+            "Xanthomonas(100)": {
+                "OTU": "Otu099",
+                "seqs_num": 1
+            },
+            "Sphingobacterium(100)": {
+                "OTU": "Otu101",
+                "seqs_num": 1
+            },
+            "Scardovia(100)": {
+                "OTU": "Otu102",
+                "seqs_num": 1
+            },
+            "UBA1819(100)": {
+                "OTU": "Otu103",
+                "seqs_num": 1
+            },
+            "Raoultibacter(100)": {
+                "OTU": "Otu104",
+                "seqs_num": 1
+            },
+            "Isoptericola(100)": {
+                "OTU": "Otu106",
+                "seqs_num": 4
+            },
+            "Bacillus(100)": {
+                "OTU": "Otu107",
+                "seqs_num": 4
+            },
+            "Pseudoflavonifractor(100)": {
+                "OTU": "Otu108",
+                "seqs_num": 1
+            },
+            "Bifidobacterium(100)": {
+                "OTU": "Otu110",
+                "seqs_num": 4
+            },
+            "Acetanaerobacterium(100)": {
+                "OTU": "Otu112",
+                "seqs_num": 1
+            },
+            "Christensenellaceae_ge(100)": {
+                "OTU": "Otu114",
+                "seqs_num": 1
+            },
+            "Peptococcus(100)": {
+                "OTU": "Otu115",
+                "seqs_num": 1
+            },
+            "Christensenella(100)": {
+                "OTU": "Otu116",
+                "seqs_num": 1
+            },
+            "Hungateiclostridium(100)": {
+                "OTU": "Otu118",
+                "seqs_num": 1
+            },
+            "Clostridioides(100)": {
+                "OTU": "Otu119",
+                "seqs_num": 6
+            },
+            "Flavonifractor(100)": {
+                "OTU": "Otu120",
+                "seqs_num": 1
+            },
+            "Lactonifactor(100)": {
+                "OTU": "Otu122",
+                "seqs_num": 1
+            },
+            "Aerococcus(100)": {
+                "OTU": "Otu123",
+                "seqs_num": 1
+            },
+            "Arcanobacterium(100)": {
+                "OTU": "Otu124",
+                "seqs_num": 1
+            },
+            "Trueperella(100)": {
+                "OTU": "Otu125",
+                "seqs_num": 1
+            },
+            "Anaerotruncus(100)": {
+                "OTU": "Otu126",
+                "seqs_num": 1
+            },
+            "Pseudarcobacter(100)": {
+                "OTU": "Otu127",
+                "seqs_num": 1
+            },
+            "Arcobacter(100)": {
+                "OTU": "Otu128",
+                "seqs_num": 2
+            },
+            "Granulicatella(100)": {
+                "OTU": "Otu129",
+                "seqs_num": 3
+            },
+            "Adlercreutzia(100)": {
+                "OTU": "Otu130",
+                "seqs_num": 3
+            },
+            "Aeromonas(100)": {
+                "OTU": "Otu131",
+                "seqs_num": 10
+            },
+            "Coprobacillus(100)": {
+                "OTU": "Otu132",
+                "seqs_num": 1
+            },
+            "Alcaligenaceae_ge(100)": {
+                "OTU": "Otu134",
+                "seqs_num": 2
+            },
+            "Akkermansia(100)": {
+                "OTU": "Otu135",
+                "seqs_num": 7
+            },
+            "Anaerosalibacter(100)": {
+                "OTU": "Otu137",
+                "seqs_num": 1
+            },
+            "Alistipes(100)": {
+                "OTU": "Otu138",
+                "seqs_num": 1
+            },
+            "Pseudoglutamicibacter(100)": {
+                "OTU": "Otu139",
+                "seqs_num": 1
+            },
+            "Companilactobacillus(100)": {
+                "OTU": "Otu140",
+                "seqs_num": 1
+            },
+            "Cloacibacterium(100)": {
+                "OTU": "Otu141",
+                "seqs_num": 1
+            },
+            "Parasporobacterium(100)": {
+                "OTU": "Otu142",
+                "seqs_num": 1
+            },
+            "Hafnia-Obesumbacterium(100)": {
+                "OTU": "Otu143",
+                "seqs_num": 4
+            },
+            "Helicobacter(100)": {
+                "OTU": "Otu145",
+                "seqs_num": 6
+            },
+            "Holdemania(100)": {
+                "OTU": "Otu146",
+                "seqs_num": 1
+            },
+            "Kytococcus(100)": {
+                "OTU": "Otu148",
+                "seqs_num": 1
+            },
+            "Grimontia(100)": {
+                "OTU": "Otu149",
+                "seqs_num": 1
+            },
+            "Loigolactobacillus(100)": {
+                "OTU": "Otu150",
+                "seqs_num": 1
+            },
+            "Lactiplantibacillus(100)": {
+                "OTU": "Otu151",
+                "seqs_num": 1
+            },
+            "Lacticaseibacillus(100)": {
+                "OTU": "Otu152",
+                "seqs_num": 1
+            },
+            "Lactococcus(100)": {
+                "OTU": "Otu153",
+                "seqs_num": 1
+            },
+            "Leuconostoc(100)": {
+                "OTU": "Otu154",
+                "seqs_num": 3
+            },
+            "Megamonas(100)": {
+                "OTU": "Otu155",
+                "seqs_num": 2
+            },
+            "Morganella(100)": {
+                "OTU": "Otu156",
+                "seqs_num": 1
+            },
+            "Faecalitalea(100)": {
+                "OTU": "Otu157",
+                "seqs_num": 1
+            },
+            "Coprobacter(100)": {
+                "OTU": "Otu158",
+                "seqs_num": 1
+            },
+            "Desemzia(100)": {
+                "OTU": "Otu159",
+                "seqs_num": 1
+            },
+            "Veillonellaceae_ge(100)": {
+                "OTU": "Otu160",
+                "seqs_num": 1
+            },
+            "Edwardsiella(100)": {
+                "OTU": "Otu161",
+                "seqs_num": 1
+            },
+            "Enterococcus(100)": {
+                "OTU": "Otu163",
+                "seqs_num": 1
+            },
+            "Salmonella(100)": {
+                "OTU": "Otu164",
+                "seqs_num": 24
+            },
+            "Holdemanella(100)": {
+                "OTU": "Otu165",
+                "seqs_num": 4
+            },
+            "Negativicoccus(100)": {
+                "OTU": "Otu166",
+                "seqs_num": 1
+            },
+            "Finegoldia(100)": {
+                "OTU": "Otu168",
+                "seqs_num": 1
+            },
+            "Filifactor(100)": {
+                "OTU": "Otu169",
+                "seqs_num": 1
+            },
+            "Sanguibacteroides(100)": {
+                "OTU": "Otu170",
+                "seqs_num": 1
+            },
+            "Aeribacillus(100)": {
+                "OTU": "Otu171",
+                "seqs_num": 1
+            },
+            "Geobacillus(100)": {
+                "OTU": "Otu172",
+                "seqs_num": 1
+            },
+            "Gordonia(100)": {
+                "OTU": "Otu173",
+                "seqs_num": 4
+            }
+        }
+    }
+}
