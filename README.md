@@ -47,11 +47,11 @@ mothur > classify.otu(list=HITTestV1.unique.good.filter.precluster.nr_v138_1.wan
 ```
 ### Data visualisation
 
-`classification.py` script was used to transforme mothur pipeline output data to a JSON format for easier visualisation.
+`classification.py` script was used to transform mothur pipeline output data to a JSON format for easier visualization. (`Classification.json`)
 
-Graphical representation of recovered sequences by taxonomic levels can be seen below. `visualisation.py` was used for generating graphical report. 
+Graphical representation of recovered sequences by taxonomic levels can be seen below. `visualisation.py` script was used for generating graphical report. 
 ![RecoveredSequence](https://user-images.githubusercontent.com/91345686/161155200-8da64874-c6b1-4d79-8a66-3b872bf87b91.png)
 
-Graphical representation of the share of classified taxa at the phylum level. `phylum_pie_chart.py` was used for generating graphical report.
+Graphical representation of the share of classified taxa at the phylum level. `phylum_pie_chart.py` script was used for generating graphical report.
 ![Pie Example(V1234)](https://user-images.githubusercontent.com/91345686/161162580-d522f0ea-1fbe-480f-b6d1-daa14c960621.png)
 
