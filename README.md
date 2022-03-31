@@ -55,4 +55,4 @@ Graphical representation of recovered sequences by taxonomic levels can be seen 
 Graphical representation of the share of classified taxa at the phylum level. `phylum_pie_chart.py` script was used for generating graphical report.
 ![Pie Example(V1234)](https://user-images.githubusercontent.com/91345686/161162580-d522f0ea-1fbe-480f-b6d1-daa14c960621.png)
 
-[Final Paper](https://github.com/DzidzaBidza/16S-rRna-Bacterial-Identification/blob/main/Final%20Paper%20-%2016S%20rRNA%20Bacterial%20Identification) can be found here.
+[Final Paper](https://github.com/DzidzaBidza/16S-rRNA-Bacterial-Identification/blob/main/Final%20Paper%20-%2016S%20rRNA%20Bacterial%20Identification) can be found here.
