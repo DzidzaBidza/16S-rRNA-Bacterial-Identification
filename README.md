@@ -45,7 +45,9 @@ mothur > phylotype(taxonomy=HITTestV1.unique.good.filter.precluster.nr_v138_1.wa
 
 mothur > classify.otu(list=HITTestV1.unique.good.filter.precluster.nr_v138_1.wang.pick.tx.list, count=HITTestV1.unique.good.filter.precluster.pick.mothurGroup.count_table, taxonomy=HITTestV1.unique.good.filter.precluster.nr_v138_1.wang.pick.taxonomy, cutoff=80) 
 ```
+### Data visualisation
 
+`classification.py` script was used to transforme mothur pipeline output data to a JSON format for easier visualisation.
 
 Graphical representation of recovered sequences by taxonomic levels can be seen below. `visualisation.py` was used for generating graphical report. 
 ![RecoveredSequence](https://user-images.githubusercontent.com/91345686/161155200-8da64874-c6b1-4d79-8a66-3b872bf87b91.png)
