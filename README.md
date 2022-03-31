@@ -1,4 +1,6 @@
-# 16S-rRna-Analysis-Visualisation
+# 16S-rRna-bacterial-identification
+
+16S rRna bacterial identification using [mothur](https://mothur.org) and Python.
 
 ## Summary
 The identification of bacteria based on the sequences of hypervariable regions was performed within the gene encoding 16S ribosomal RNA (rRNA) synthesis. 
